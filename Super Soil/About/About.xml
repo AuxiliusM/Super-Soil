@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+	<name>Super Soil</name>
+	<author>AuxiliusM</author>
+	<packageId>auxiliusm.supersoil</packageId>
+	<url>https://ludeon.com/forums/index.php?topic=29561.0</url>
+	<supportedVersions>
+    <li>1.0</li>
+	<li>1.1</li>
+    </supportedVersions>
+	<description> Grow things very fast with the help of this bioengineered mycelium network which fertilizes your plants.</description>
+
+</ModMetaData>
