@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModSyncNinjaData>
+  <ID>c52284d2-09a5-442e-b112-1a172b3b8110</ID>
+  <ModName>Super Soil</ModName>
+  <Version>1.0.0.0</Version>
+  <SaveBreaking>False</SaveBreaking>
+  <Host name="Github">
+    <Owner>AuxiliusM</Owner>
+    <Project>Super-Soil</Project>
+    <AboutDir>Super%20Soil/About</AboutDir>
+    <DownloadFrom>ModSyncMainPage</DownloadFrom>
+    <Branch>master</Branch>
+  </Host>
+</ModSyncNinjaData>
